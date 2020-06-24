@@ -10,6 +10,6 @@ const multiplicar = (x,y)  => {
   return x * y;
 }
 
-const division = (x,y)  => {
+const dividir = (x,y)  => {
   return x / y;
 }
